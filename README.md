@@ -30,7 +30,7 @@ If you can't audit it, you can't deploy it in a regulated environment.
 
 ## Open Repositories
 
-### [dcl-eval-pipeline-demo]([(https://github.com/DariRinch/dcl-eval-pipeline-demo)]
+- [DariRinch/dcl-eval-pipeline-demo](https://github.com/DariRinch/dcl-eval-pipeline-demo)
 
 Working implementation of the DCL evaluation pipeline:
 - Jupyter notebooks with end-to-end verification examples
