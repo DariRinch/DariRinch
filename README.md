@@ -30,7 +30,7 @@ If you can't audit it, you can't deploy it in a regulated environment.
 
 ## Open Repositories
 
-### [dcl-eval-pipeline-demo](https://github.com/KeyKeeper42/dcl-eval-pipeline-demo)
+### [dcl-eval-pipeline-demo]([(https://github.com/DariRinch/dcl-eval-pipeline-demo)]
 
 Working implementation of the DCL evaluation pipeline:
 - Jupyter notebooks with end-to-end verification examples
@@ -54,7 +54,7 @@ Representative systems:
 
 ## Writing
 
-  *Deterministic verification layer vs. fabricated execution in agentic systems*
+- *Deterministic verification layer vs. fabricated execution in agentic systems*
 
 - CVE-HUM trilogy *(in progress)* — applying cybersecurity frameworks to analyze civilizational vulnerabilities. First volume: *No Threats Detected*. Submitted to Zer0 Books, MIT Press.
 
