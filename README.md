@@ -1,4 +1,4 @@
-# Dari Rinch · KeyKeeper_42
+# Dari Rinch
 
 **Founder, Fronesis Labs** — building deterministic audit infrastructure for agentic AI systems  
 (**DCL · cryptographic verification · AI compliance**)
