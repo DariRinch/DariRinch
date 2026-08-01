@@ -3,8 +3,7 @@
 **Founder, Fronesis Labs** — building deterministic audit infrastructure for agentic AI systems  
 (**DCL · cryptographic verification · AI compliance**)
 
-AI Systems Architect · Siberia, Russia  
-Patent applicant (6 patent filings with Rospatent) · Independent researcher
+AI Systems Architect · Independent researcher
 
 ---
 
@@ -42,9 +41,6 @@ Working implementation of the DCL evaluation pipeline:
 
 ## Intellectual Property
 
-Six patent applications filed through Rospatent covering the DCL technology stack.  
-IP terms negotiated: core DCL architecture remains author's property under license.
-
 Representative systems:
 - **DCL core** — deterministic commitment and trace verification protocol
 - **Audit chain primitives** — cryptographic log construction for multi-agent pipelines
@@ -56,7 +52,7 @@ Representative systems:
 
 - *Deterministic verification layer vs. fabricated execution in agentic systems*
 
-- CVE-HUM trilogy *(in progress)* — applying cybersecurity frameworks to analyze civilizational vulnerabilities. First volume: *No Threats Detected*. Submitted to Zer0 Books, MIT Press.
+- CVE-HUM trilogy *(in progress)* — applying cybersecurity frameworks to analyze civilizational vulnerabilities. First volume: *No Threats Detected*.
 
 ---
 
@@ -71,7 +67,6 @@ Representative systems:
 ## Connect
 
 - 🐱 **GitHub**: [DariRinch](https://github.com/DariRinch)
-- 📝 **Habr**: [@DariRinch](https://habr.com)
 - 💼 **Fronesis Labs**: [github.com/Fronesis-Labs](https://github.com/Fronesis-Labs)
 ---
 
