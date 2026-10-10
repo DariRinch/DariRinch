@@ -1,0 +1,62 @@
+<h1 align="center">DARI RINCH</h1>
+
+<p align="center">
+  <b>Founder · AI Systems Architect · Builder</b><br>
+  <a href="https://fronesislabs.com">Fronesis Labs</a>
+</p>
+
+<p align="center">
+  <i>Don’t trust the agent. Trust the proof.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Base-0052FF?style=flat&logo=base&logoColor=white" alt="Base" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white" alt="Chainlink" />
+  <img src="https://img.shields.io/badge/x402-Protocol-111111?style=flat" alt="x402" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
+
+---
+
+## CORE PROJECTS
+
+**[DCL Core](https://github.com/Fronesis-Labs/dcl-core)**  
+Deterministic verification and audit infrastructure for AI agent actions.
+
+**[x402 Identity Guard](https://github.com/Fronesis-Labs/x402-identity-guard)**  
+Identity-aware filtering for agent interactions and x402 payment flows.
+
+**[DCL Audit Event](https://github.com/Fronesis-Labs/dcl-audit-event)**  
+A structured, versioned event format for auditable agent activity.
+
+**[Fronesis LangChain](https://github.com/Fronesis-Labs/fronesis-langchain)**  
+DCL audit integration for LangChain agents.
+
+**[Transparency Board](https://transparency.fronesislabs.com/)**  
+Public visibility into DCL audit activity and verification records.
+
+**[Fronesis Labs](https://fronesislabs.com)**  
+The broader DCL ecosystem.
+
+---
+
+<p align="center">
+  <a href="https://github.com/Fronesis-Labs">Fronesis Labs</a>
+  &nbsp;·&nbsp;
+  <a href="https://transparency.fronesislabs.com/">Transparency Board</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.moltbook.com/u/fronesis">Moltbook</a>
+</p>
+
+<p align="center">
+  <i>Verification is not a feature. It is a precondition.</i>
+</p>
