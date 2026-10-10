@@ -1,77 +1,36 @@
-# Dari Rinch
+<h1 align="center">Dari Rinch</h1> <p align="center"> <b>Founder, <a href="https://fronesislabs.com">Fronesis Labs</a></b><br> AI Systems Architect · Builder · Diagnostician </p> <h3 align="center"> “Don’t trust the agent.<br> <i>Trust the proof.</i>” </h3> <p align="center"> <i>Building trust infrastructure for autonomous agents.</i> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"> <br> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"> <img src="https://img.shields.io/badge/Base-0052FF?style=flat&logo=base&logoColor=white" alt="Base"> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white" alt="Chainlink"> <img src="https://img.shields.io/badge/x402-Protocol-111111?style=flat" alt="x402"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"> </p>
+dcl://system/status
+text
+> agent.claims   = UNTRUSTED
+> proof.verify() = REQUIRED
+> side_effects   = NEVER_IMPLICIT
+> transparency   = DEFAULT
 
-**Founder, Fronesis Labs** — building deterministic audit infrastructure for agentic AI systems  
-(**DCL · cryptographic verification · AI compliance**)
+DCL // Deterministic · Composable · Verifiable
 
-AI Systems Architect ·
+TRUST STATUS: NOT ASSUMED. VERIFIED. [DCL v2.x]
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+Core Projects
+Project	What it does	Link
+DCL Core v2.3.1	Deterministic audit primitive for AI agent actions. 18 tools · x402 v2 · Base. Exact USDC · Trust Oracle.	Fronesis-Labs/dcl-core
+DCL Trust Oracle	Verifies actions, not words. Policies, proofs and decisions on-chain.	transparency.fronesislabs.com
+LangChain Integration	DCLAuditTool for LangChain. Gate side effects with verifiable proof.	Fronesis-Labs/fronesis-langchain
+Transparency Board	Live audits, policies, verdicts and proofs. Radically open by default.	transparency.fronesislabs.com
+What is DCL?
 
----
+DCL is the audit layer for autonomous systems. It creates cryptographic evidence that an action followed stated rules before any irreversible side effects.
 
-## What I'm Building
+Think of it as TLS, but for AI actions.
 
-Most agentic systems trust their agents on the output alone.  
-I build the layer that checks whether the work was actually done.
-
-**Core thesis:** An AI agent doesn't *execute* a task — it generates text that *looks like* execution. Without a deterministic verification layer, there is no difference between a completed task and a fabricated one.
-
-This is not a model alignment problem. It is an architecture problem.
-
-**Deterministic Commitment Layer (DCL)** addresses it by introducing three primitives:
-
-- **Commitment Protocol** — cryptographic binding to inputs and declared tool use *before* execution begins
-- **Execution Trace Verification** — independent signing of every tool call, decoupled from the agent's self-report
-- **Cryptographic Audit Log** — an immutable chain linking commitment → trace → result, replayable and tamper-evident
-
-If you can't replay the execution, you can't audit it.  
-If you can't audit it, you can't deploy it in a regulated environment.
-
----
-
-## Open Repositories
-
-- [DariRinch/dcl-eval-pipeline-demo](https://github.com/DariRinch/dcl-eval-pipeline-demo)
-
-Working implementation of the DCL evaluation pipeline:
-- Jupyter notebooks with end-to-end verification examples
-- FastAPI endpoints for commitment and trace verification
-- Docker containerization + CI/CD
-- Python · FastAPI · Docker · GitHub Actions
-
----
-
-## Intellectual Property
-
-Representative systems:
-- **DCL core** — deterministic commitment and trace verification protocol
-- **Audit chain primitives** — cryptographic log construction for multi-agent pipelines
-- **Compliance adapter layer** — mapping DCL outputs to FSTEK and regulated-industry requirements
-
----
-
-## Writing
-
-- *Deterministic verification layer vs. fabricated execution in agentic systems*
-
-- CVE-HUM trilogy *(in progress)* — applying cybersecurity frameworks to analyze civilizational vulnerabilities. First volume: *No Threats Detected*.
-
----
-
-## Looking For
-
-- **Pilot deployments** — regulated industries where agent auditability is a hard requirement (finance, legal, government)
-- **Standards discussion** — researchers and architects working on deterministic governance or formal verification for AI
-- **Whitepaper feedback** — DCL full technical specification in preparation, early access on request
-
----
-
-## Connect
-
-- 🐱 **GitHub**: [DariRinch](https://github.com/DariRinch)
-- 💼 **Fronesis Labs**: [github.com/Fronesis-Labs](https://github.com/Fronesis-Labs)
----
-
-> Verification is not a feature.  
-> It is a precondition for deployment.  
-> — Dari Rinch
+Currently Building
+DCL Web2 Guard: bring verifiable trust to everyday workflows.
+Dynamic Immune System for Policies: evolve rules based on real-world attacks.
+Leibniz Layer: knowledge graphs for verifiable reasoning.
+…and writing books.
+Connect
+🌐 Website: fronesislabs.com
+💼 Organization: github.com/Fronesis-Labs
+📊 Transparency Board: transparency.fronesislabs.com
+🤖 Moltbook: moltbook.com/u/fronesis
+<p align="center"> <i><b>Verification is not a feature.</b></i> </p>
+Content
